@@ -41,7 +41,7 @@ Heart Rate (HR) is one of the most important Physiological parameter and a vital
 A non-contact based system to measure Heart Rate: real-time application using camera.
 Principal: Extract heart rate information from facial skin color variation caused by blood circulation.
 
-# The process of finding the pulse from an RGB video:
+# The process of finding the pulse from a RGB video:
 ![FlowChart](https://github.com/EinatLasry/HR-from-RGB/assets/82314695/a9a521b6-20e0-4ce8-84ef-d82a9194056c)
 
 # Approaches:
