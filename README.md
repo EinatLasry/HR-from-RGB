@@ -88,6 +88,7 @@ The weight vectors are:
 # Results
 You can see in the table the results of our code (with the weight-vector selected) compared to the results of the competition.
 https://arxiv.org/pdf/2003.11756.pdf
+
 We were surprised that it is precisely the equal weight vector that brings the best results.
 It can be concluded that in a test on large and varied data, there were advantages and disadvantages to each method,
 and therefore their combination resulted in a better result from each method individually.
