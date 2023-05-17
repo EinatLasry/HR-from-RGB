@@ -28,8 +28,7 @@ Notice that:
 <img src="https://user-images.githubusercontent.com/79280930/127553271-2fa20129-371e-41b5-ac8d-39bd3400b70b.png">
 
 *******************************************************************
-# HR-from-RGB
-# Integration between open source codes
+# HR-from-RGB: Integration between open source codes
 # Einat Lasry & Yaniv Shnur, Under the direction of Hagit Hel Or, Haifa University 08/2021
 
 The purpose of the project is to extract a pulse from RGB videos.
