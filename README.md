@@ -74,6 +74,7 @@ For each video, we extracted HR from 5 different ROI's:
 
 Next, we tested on a large number of challenging videos ("training"),
 how we will get the best results, by weighting the different results for that video.
+[DATA: VIPL-HR-V2-500]
 In the first step we calculated the errors of each ROI,
 and we concluded which ROI should be given greater weight.
 
