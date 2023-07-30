@@ -1,4 +1,3 @@
-# IN PROCESS, There are more files to upload...
 # Python environment with a requirements.txt
 
 The `requirements.txt` file should list all Python libraries that your notebooks
